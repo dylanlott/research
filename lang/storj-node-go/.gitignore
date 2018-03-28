@@ -2,3 +2,5 @@
 ~.vimbuffer
 *.db
 vendor/
+./storj-node-go
+storj-node-go
